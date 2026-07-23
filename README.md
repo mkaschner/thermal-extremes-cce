@@ -1,6 +1,7 @@
 # Thermal extremes shape future highly mobile species redistribution in the California Current
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21517001.svg)](https://doi.org/10.5281/zenodo.21517001)
+<!-- DOI badge: add after publishing the reserved Zenodo record -->
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
 Code accompanying the manuscript:
 
@@ -94,7 +95,6 @@ If you use this code, please cite the article and the archived software release
 
 > Kaschner, M. L. et al. (2026). Analysis code for "Thermal extremes shape
 > future highly mobile species redistribution in the California Current".
-> Zenodo. https://doi.org/10.5281/zenodo.21517001
+> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
-The DOI above is the *concept* DOI — it always resolves to the latest archived
-version, so it remains valid as the code is updated before and during review.
+_Replace `XXXXXXX` with the reserved Zenodo DOI once the record is published._

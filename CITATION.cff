@@ -29,7 +29,7 @@ authors:
 license: MIT
 version: 1.0.0
 date-released: 2026-07-23
-# doi: 10.5281/zenodo.XXXXXXX   # <- add the Zenodo DOI after the first release
+doi: 10.5281/zenodo.21517001   # concept DOI (always resolves to the latest version)
 # repository-code: "https://github.com/<your-username>/thermal-extremes-cce"
 preferred-citation:
   type: article

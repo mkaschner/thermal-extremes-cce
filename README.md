@@ -71,15 +71,20 @@ externally (PowerPoint) after export.
 
 ## Notes on terminology
 
-Internally the code labels the two thermal extremes `amplify` (warm; 90–100th
-percentile SST-anomaly months) and `minimize` (cool; 0–10th percentile). The
-three manuscript comparisons are:
+The code labels the two thermal extremes `warm` (90–100th percentile SST-anomaly
+months) and `cool` (0–10th percentile). The three manuscript comparisons are:
 
 | Code | Manuscript term | Figure |
 |------|-----------------|--------|
 | `F[ave] − H[ave]` | Anthropogenic (long-term) warming | Fig 2 |
-| `H[amp] − H[min]` | Historical thermal extremes | Fig 3 |
-| `F[amp] − F[min]` | Future thermal extremes | Fig 4 |
+| `H[warm] − H[cool]` | Historical thermal extremes | Fig 3 |
+| `F[warm] − F[cool]` | Future thermal extremes | Fig 4 |
+
+Composite habitat-suitability `.grd` files are located by filename via the
+`signal_file_tokens` map in `config.R`. Set that map to whatever token your
+composites embed — the default assumes an earlier run that wrote `amplify`
+(warm) and `minimize` (cool); regenerating with `03_composite_sdm_output.R`
+uses `warm`/`cool` directly.
 
 Multi-panel figures (e.g. the 4-species × 3-column layouts of Figs 2–4) are
 assembled from the individual panels that the scripts export.

@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the archived software release."
+title: "Analysis code for: Thermal extremes shape future highly mobile species redistribution in the California Current"
+abstract: >-
+  Reproducible R/CDO pipeline assessing how habitat suitability for four highly
+  mobile marine species in the California Current responds to long-term warming
+  versus transient thermal extremes, using published species distribution models
+  forced by three downscaled Earth System Models under RCP 8.5.
+type: software
+authors:
+  - given-names: "Meghan L."
+    family-names: Kaschner
+  - given-names: Nerea
+    family-names: Lezama-Ochoa
+  - given-names: Heather
+    family-names: Welch
+  - given-names: Allison
+    family-names: Cluett
+  - given-names: Mercedes
+    family-names: Pozo Buil
+  - given-names: "Steven J."
+    family-names: Bograd
+  - given-names: "Michael G."
+    family-names: Jacox
+  - given-names: "Elliott L."
+    family-names: Hazen
+  - given-names: "Andrew D."
+    family-names: Barton
+license: MIT
+version: 1.0.0
+date-released: 2026-07-23
+# doi: 10.5281/zenodo.XXXXXXX   # <- add the Zenodo DOI after the first release
+# repository-code: "https://github.com/<your-username>/thermal-extremes-cce"
+preferred-citation:
+  type: article
+  title: "Thermal extremes shape future highly mobile species redistribution in the California Current"
+  authors:
+    - given-names: "Meghan L."
+      family-names: Kaschner
+    - given-names: Nerea
+      family-names: Lezama-Ochoa
+    - given-names: Heather
+      family-names: Welch
+    - given-names: Allison
+      family-names: Cluett
+    - given-names: Mercedes
+      family-names: Pozo Buil
+    - given-names: "Steven J."
+      family-names: Bograd
+    - given-names: "Michael G."
+      family-names: Jacox
+    - given-names: "Elliott L."
+      family-names: Hazen
+    - given-names: "Andrew D."
+      family-names: Barton
+  journal: "Diversity and Distributions"
+  year: 2026
+  # doi: 10.1111/ddi.XXXXX   # <- add the article DOI when available

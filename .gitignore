@@ -1,0 +1,28 @@
+# --- Data (this repo is code-only; see DATA.md) --------------------------
+*.nc
+*.grd
+*.gri
+*.rds
+*.tif
+*.csv
+
+# --- Outputs -------------------------------------------------------------
+output data/
+output plots/
+figures/
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.svg
+
+# --- R session / project cruft -------------------------------------------
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# --- OS ------------------------------------------------------------------
+.DS_Store
+Thumbs.db

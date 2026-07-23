@@ -8,7 +8,7 @@ Code accompanying the manuscript:
 > Kaschner, M. L., Lezama-Ochoa, N., Welch, H., Cluett, A., Pozo Buil, M.,
 > Bograd, S. J., Jacox, M. G., Hazen, E. L., & Barton, A. D. *Thermal extremes
 > shape future highly mobile species redistribution in the California Current.*
-> (submitted to *Diversity and Distributions*).
+> (planning to submit to *Diversity and Distributions*).
 
 This repository reproduces the analysis and figures. It assesses how habitat
 suitability for four highly mobile marine species — California sea lion
